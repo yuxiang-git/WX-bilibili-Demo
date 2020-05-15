@@ -40,4 +40,4 @@
 如果你有Vue的基础的话,这个其实很简单就能看懂了的,关于Vue,可以点这里(官方文档):https://cn.vuejs.org
 
 ### 想要做小程序得要会什么
-HTML/CSS,JavaScript即可.其中JavaScript最好是会ES6的语法,而Vue的话如果打算使用mpvue之类的框架来写小程序的话可以了解,如果只想用原生的话那么看一下就行
+HTML/CSS,JavaScript即可.其中JavaScript最好是会ES6的语法,而Vue的话如果打算使用mpvue之类的框架来写小程序的话可以了解,如果只想用原生的话那么看一下就行   allall
